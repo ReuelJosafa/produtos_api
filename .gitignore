@@ -30,7 +30,7 @@
 .pub-cache/
 .pub/
 /build/
-lib/app/shared/constants
+/lib/app/shared/const/constants
 
 # Web related
 lib/generated_plugin_registrant.dart
